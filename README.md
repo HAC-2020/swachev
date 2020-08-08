@@ -1,7 +1,7 @@
 # swachev-
 # Covid-19 Repo/Project Recommender
 
-This repo contains an advanced recommender system for covid-19 projects based on language and keywords. This model is developed upon the already existing base model [1]
+This repo contains an advanced recommender system for covid-19 projects based on language and keywords. This model is developed upon the already existing base model[1] with improved accuracy in recommendation using BERT Embedding[2]
 
 
 # Setup Instructions
