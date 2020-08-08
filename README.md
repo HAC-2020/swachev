@@ -15,5 +15,7 @@ python3 -m ipykernel install --user --name=covid19-repo-recommender
 ```mlflow server```
 
 # References
+```
 [1]https://github.com/BookletAI/covid19-repo-recommender
 [2]Reimers, N., & Gurevych, I. (2019). Sentence-bert: Sentence embeddings using siamese bert-networks. arXiv preprint arXiv:1908.10084.
+```
